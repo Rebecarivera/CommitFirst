@@ -1,0 +1,5 @@
+c:\users\rebeca\documents\visual studio 2012\Projects\ProyectoPrueba\ProyectoPrueba\bin\ProyectoPrueba.dll
+c:\users\rebeca\documents\visual studio 2012\Projects\ProyectoPrueba\ProyectoPrueba\bin\ProyectoPrueba.pdb
+c:\users\rebeca\documents\visual studio 2012\Projects\ProyectoPrueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.csprojResolveAssemblyReference.cache
+c:\users\rebeca\documents\visual studio 2012\Projects\ProyectoPrueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.dll
+c:\users\rebeca\documents\visual studio 2012\Projects\ProyectoPrueba\ProyectoPrueba\obj\Debug\ProyectoPrueba.pdb
